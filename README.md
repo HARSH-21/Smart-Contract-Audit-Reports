@@ -1,19 +1,20 @@
 # Smart-Contract-Audit-Portfolio
 This repository represents my portfolio smart contract audits.Contains reports of smart contract audits performed by me.
 
-Smart Contract Security Researcher | Web3 Auditor
+Blockchain Security Researcher | Smart Contract Auditor
 
 Expertise:
-- Solidity security
+- Solidity Rust security
 - DeFi protocol analysis
-- EVM internals
 - Smart contract exploitation
 
 Platforms:
-- Code4rena
-- Sherlock
 - Codehawks
-
+- Sherlock
+- Code4rena
+  
 Findings:
-- High severity: 5
-- Medium severity: 4
+
+- High severity: 12
+- Medium severity: 10
+- Low severity : 8
